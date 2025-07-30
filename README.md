@@ -29,6 +29,8 @@ This project is a **console-based Tetris game** written in C, created as part of
 - **Down Arrow / S** – Drop piece faster
 - **Up Arrow / W** – Rotate piece
 - **Q** – Quit game
+  
+![Tetris](https://github.com/user-attachments/assets/59720cf2-d8fa-40d9-a046-0aa22c052787)
 
 ---
 
